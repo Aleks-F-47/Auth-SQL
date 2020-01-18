@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7313b120-e88d-474e-b8c7-46471979d0c3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$/Git" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="ProjectId" id="1W9nsjPNdKYZ2tBNIcsMeYBiBm6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="TEXT" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$USER_HOME$/Git" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/templates" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7313b120-e88d-474e-b8c7-46471979d0c3" name="Default Changelist" comment="" />
+      <created>1578570886793</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578570886793</updated>
+    </task>
+    <task id="LOCAL-00001" summary="001">
+      <created>1579323065479</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1579323065479</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$USER_HOME$/Git" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_TABS">
+      <set>
+        <option value="1" />
+      </set>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="001" />
+    <option name="LAST_COMMIT_MESSAGE" value="001" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="602" y="241" width="800" height="677" key="#Notifications" timestamp="1579322425906">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="602" y="241" width="800" height="677" key="#Notifications/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1579322425906" />
+    <state x="614" y="176" width="777" height="807" key="CommitChangelistDialog2" timestamp="1579323065008">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="614" y="176" width="777" height="807" key="CommitChangelistDialog2/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1579323065008" />
+    <state x="781" y="321" width="447" height="484" key="FileChooserDialogImpl" timestamp="1579323477407">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="781" y="321" width="447" height="484" key="FileChooserDialogImpl/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1579323477407" />
+    <state x="2701" y="302" width="447" height="513" key="FileChooserDialogImpl/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1579318107382" />
+    <state x="842" y="644" width="670" height="210" key="Github.ShareDialog" timestamp="1579322613348">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="842" y="644" width="670" height="210" key="Github.ShareDialog/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1579322613348" />
+    <state x="2762" y="633" width="602" height="264" key="Github.ShareDialog/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1579318058761" />
+    <state x="892" y="463" width="652" height="559" key="Github.UntrackedFilesDialog" timestamp="1579319861998">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="892" y="463" key="Github.UntrackedFilesDialog/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1579319861998" />
+    <state x="2812" y="447" width="652" height="559" key="Github.UntrackedFilesDialog/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1579317546925" />
+    <state x="479" y="236" key="SettingsEditor" timestamp="1579321359518">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="479" y="236" key="SettingsEditor/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1579321359518" />
+    <state x="2399" y="214" key="SettingsEditor/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1579318551395" />
+    <state x="602" y="315" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1579323081178">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="602" y="315" width="800" height="528" key="Vcs.Push.Dialog.v2/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1579323081178" />
+    <state x="663" y="407" key="com.intellij.ide.util.TipDialog" timestamp="1579321298184">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="663" y="407" key="com.intellij.ide.util.TipDialog/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1579321298184" />
+    <state x="758" y="669" width="464" height="160" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579322176237">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="758" y="669" width="464" height="160" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1579322176237" />
+    <state x="2678" y="658" width="454" height="160" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1579318574770" />
+  </component>
+</project>
